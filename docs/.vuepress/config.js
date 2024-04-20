@@ -21,6 +21,15 @@ export default defineUserConfig({
         {
             text: 'AboutMe',
             link: '/about/aboutme.md',
+        },
+        {
+            text: 'C++',
+            children: [
+                {
+                    text: 'C++算法',
+                    link: '/C++/C++算法/readme.md',
+                }
+            ],
         }
     ]
   }),
