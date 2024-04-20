@@ -15,15 +15,15 @@ export default defineUserConfig({
     logo: '/images/logo.png',
     navbar: [
         {
-            text: '首页',
+            text: '🏠️首页',
             link: '/',
         },
         {
-            text: 'AboutMe',
+            text: '🤙AboutMe',
             link: '/about/aboutme.md',
         },
         {
-            text: 'C++',
+            text: '🧑🏻‍💻C++',
             children: [
                 {
                     text: 'C++算法',
