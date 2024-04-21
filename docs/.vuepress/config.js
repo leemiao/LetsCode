@@ -19,10 +19,6 @@ export default defineUserConfig({
             link: '/',
         },
         {
-            text: '🤙AboutMe',
-            link: '/about/aboutme.md',
-        },
-        {
             text: '🧑🏻‍💻C++',
             children: [
                 {
@@ -30,7 +26,16 @@ export default defineUserConfig({
                     link: '/C++/C++算法/readme.md',
                 }
             ],
-        }
+        },
+        {
+            text: 'bilibili',
+            link: 'https://space.bilibili.com/25488437',
+        },
+        {
+            text: '🤙AboutMe',
+            link: '/about/aboutme.md',
+        },
+        
     ]
   }),
 
