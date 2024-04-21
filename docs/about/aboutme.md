@@ -8,13 +8,13 @@ description: 个人简历
 
 ## 基本信息
 
-| 姓名：ChengYu                                                | 性别：男                        |
-| ------------------------------------------------------------ | ------------------------------- |
-| <img src="assets/image-20240421153652872.png" width=30>微信：LetsCode001 | 邮箱：Letslearning.cn@gmail.com |
+| 姓名：ChengYu                                           | 性别：男                                                     |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="assets/wechat.png" width=30>微信：LetsCode001 | <img src="assets/email.png" width=30>邮箱：Letslearning.cn@gmail.com |
 
 ## 个人项目：
 
-**C++项目**：[从0开始的C++算法课](https://space.bilibili.com/25488437/channel/collectiondetail?sid=1830481)
+<img src="assets/cplusplus.png" width=40>**C++项目**：[从0开始的C++算法课](https://space.bilibili.com/25488437/channel/collectiondetail?sid=1830481)
 
 <img src="assets/bilibili.png" width=45>**bilibili主页**：[LetsLearning](https://space.bilibili.com/25488437?spm_id_from=333.1007.0.0)
 
