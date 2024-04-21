@@ -8,9 +8,9 @@ description: 个人简历
 
 ## 基本信息
 
-| 姓名：ChengYu                                             | 性别：男                                                     |
-| --------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="./assets/wechat.png" width=30>微信：LetsCode001 | <img src="./assets/email.png" width=30>邮箱：Letslearning.cn@gmail.com |
+| 姓名：ChengYu                                                | 性别：男                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a style=text-decoration:none><img src="./assets/wechat.png" width=30>微信：LetsCode001</a> | <img src="./assets/email.png" width=30>邮箱：Letslearning.cn@gmail.com |
 
 ## 个人项目：
 
