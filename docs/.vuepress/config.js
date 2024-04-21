@@ -5,7 +5,7 @@ import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
   bundler: viteBundler(),
 
-  base: '/LetsCode/',
+//   base: '/LetsCode/',
 
   lang: 'zh-CN',
   title: 'LetsCode',
