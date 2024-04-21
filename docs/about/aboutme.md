@@ -4,7 +4,7 @@ title: 关于我
 description: 个人简历
 ---
 
-# 🌞About Me
+# <i class="fa-regular fa-eject"></i>About Me
 
 ## 基本信息
 
@@ -36,4 +36,12 @@ description: 个人简历
 
 
 
-<**head**>     <**script** defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></**script**>     <**script** defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></**script**>  </**head**>  <**link** rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+<head>     
+
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>     
+
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>  
+
+</head>  
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">

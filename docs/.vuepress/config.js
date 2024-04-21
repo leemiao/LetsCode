@@ -15,7 +15,7 @@ export default defineUserConfig({
     logo: '/images/logo.png',
     navbar: [
         {
-            text: '<i class="fa-regular fa-house"></i>🏠️首页',
+            text: '🏠️首页',
             link: '/',
         },
         {
