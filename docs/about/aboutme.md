@@ -8,7 +8,7 @@ description: 个人简历
 
 | 姓名：ChengYu                                                | 性别：男                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <div><img src="./assets/wechat.png" style="display:block; float:left;" width=30><a style="text-decoration:none; display:block; float:left;">LetsCode001</a></div> | <div"><img src="./assets/email.png" style="display:block; float:left;" width=30><a style="text-decoration:none; display:block; float:left;">Letslearning.cn@gmail.com</a></div> |
+| <div><img src="./assets/wechat.png" style="display:block; float:left;" width=30><a style="text-decoration:none; display:block; float:left;">LetsCode001</a></div> | <div><img src="./assets/email.png" style="display:block; float:left;" width=30><a style="text-decoration:none; display:block; float:left;">Letslearning.cn@gmail.com</a></div> |
 
 ## 个人项目：
 
