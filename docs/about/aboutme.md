@@ -6,15 +6,39 @@ description: 个人简历
 
 ## 基本信息
 
-| 姓名：ChengYu                                                | 性别：男                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <div><img src="./assets/wechat.png" style="display:block; float:left;" width=30><a style="text-decoration:none; display:block; float:left; padding-top:3px;">LetsCode001</a></div> | <div><img src="./assets/email.png" style="display:block; float:left;" width=30><a style="text-decoration:none; display:block; float:left; padding-bottom:1px;">Letslearning.cn@gmail.com</a></div> |
+<div style="height:120px;">
+
+<div style="height:45px;">
+    <div style="height:50px; font-size:18px;">
+        <div style="width:230px; height:25px; float:left;">
+        姓名：<strong><em>ChengYu</em></strong>
+        </div>
+        <div style="width:200px; float:left;">
+        性别：<strong><em>男</em></strong>
+        </div>
+    </div>
+</div>
+
+<div>
+	<img src="./assets/wechat.png" style="display:block; width:30px; float:left;" >
+    <a style="text-decoration:none; display:block; width:200px; height:25px; float:left; float:left; padding-top:4px;">&nbsp;LetsCode001
+    </a>
+</div>
+
+<div>
+    <img src="./assets/email.png" style="display:block; width:30px; float:left;" >
+        <a style="text-decoration:none; display:block; float:left; padding-top:5px;">&nbsp;Letslearning.cn@gmail.com
+        </a>
+</div>
+
+</div>
 
 ## 个人项目：
 
-<img src="./assets/cplusplus.png" width=40>**C++项目**：[从0开始的C++算法课](https://space.bilibili.com/25488437/channel/collectiondetail?sid=1830481)
-
-<img src="./assets/bilibili.png" width=45>**bilibili主页**：[LetsLearning](https://space.bilibili.com/25488437?spm_id_from=333.1007.0.0)
+<div style="height:60px; margin-top:20px;">
+<div style="font-size:18px;"><img src="./assets/cplusplus.png" style="display:block; float:left" width=35><a style="display:block; float:left; margin-top:6px;">C++项目:</a><a style="display:block; float:left; margin-top:6px;">「从0开始的C++算法课」</a></div>
+<div style="font-size:18px;"><img src="./assets/bilibili.png" style="display:block; float:left;" width=40><a style="display:block; float:left; margin-top:7px;">bilibili主页:</a><a href="https://space.bilibili.com/25488437" style="display:block; float:left; margin-top:7px;">点击进入主页</a></div>
+</div>
 
 ## 工作经历
 
