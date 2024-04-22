@@ -23,7 +23,12 @@ export default defineUserConfig({
             children: [
                 {
                     text: 'C++算法',
-                    link: '/C++/C++算法/readme.md',
+                    children:
+                    [ 
+                        '/C++/C++算法/readme.md',
+                        '/C++/C++算法/00.md',
+                        '/C++/C++算法/01.md'
+                    ]
                 }
             ],
         },

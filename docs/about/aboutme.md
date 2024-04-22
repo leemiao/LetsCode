@@ -6,7 +6,7 @@ description: 个人简历
 
 ## 基本信息
 
-<div style="height:120px;">
+<div style="height:90px;">
 
 <div style="height:45px;">
     <div style="height:50px; font-size:18px;">
@@ -30,7 +30,6 @@ description: 个人简历
         <a style="text-decoration:none; display:block; float:left; padding-top:5px;">&nbsp;Letslearning.cn@gmail.com
         </a>
 </div>
-
 </div>
 
 ## 个人项目
