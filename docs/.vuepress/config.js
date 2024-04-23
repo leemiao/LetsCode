@@ -26,7 +26,8 @@ export default defineUserConfig({
                     children:
                     [
                         '/Python/Python基础/readme.md',
-                        '/Python/Python基础/00.md'    
+                        '/Python/Python基础/00.md',
+                        '/Python/Python基础/01.md'    
                     ]
                 }
             ]
