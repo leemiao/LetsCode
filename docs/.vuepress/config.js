@@ -19,6 +19,19 @@ export default defineUserConfig({
             link: '/',
         },
         {
+            text:'Python',
+            children:[
+                {
+                    text:'Python基础',
+                    children:
+                    [
+                        '/Python/Python基础/readme.md',
+                        '/Python/Python基础/00.md'    
+                    ]
+                }
+            ]
+        },
+        {
             text: '🧑🏻‍💻C++',
             children: [
                 {
