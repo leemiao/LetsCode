@@ -9,7 +9,7 @@ export default defineUserConfig({
 
   lang: 'zh-CN',
   title: 'LetsCode',
-  description: 'LetsLearning下LetsCode文档网站',
+  description: 'LetsLearning频道文档网站',
 
   theme: defaultTheme({
     logo: '/images/logo.png',
