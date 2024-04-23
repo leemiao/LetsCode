@@ -28,7 +28,8 @@ export default defineUserConfig({
                         '/Python/Python基础/readme.md',
                         '/Python/Python基础/00.md',
                         '/Python/Python基础/01.md',
-                        '/Python/Python基础/02.md'    
+                        '/Python/Python基础/02.md',
+                        '/Python/Python基础/03.md'    
                     ]
                 }
             ]
