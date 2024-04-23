@@ -38,9 +38,9 @@ export default defineUserConfig({
                     text: 'C++算法',
                     children:
                     [ 
-                        '/C++/C++算法/readme.md',
-                        '/C++/C++算法/00.md',
-                        '/C++/C++算法/01.md'
+                        '/C-plusplus/Cplusplus算法/readme.md',
+                        '/C-plusplus/Cplusplus算法/00.md',
+                        '/C-plusplus/Cplusplus算法/01.md'
                     ]
                 }
             ],
