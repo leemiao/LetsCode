@@ -45,6 +45,13 @@ export default defineUserConfig({
                         '/C-plusplus/Cplusplus算法/00.md',
                         '/C-plusplus/Cplusplus算法/01.md'
                     ]
+                },
+                {
+                    text: 'C++核心',
+                    children: 
+                    [
+                        '/C-plusplus/cplusplus编程核心/00.md'
+                    ]
                 }
             ],
         },
