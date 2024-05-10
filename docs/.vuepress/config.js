@@ -50,7 +50,8 @@ export default defineUserConfig({
                     text: 'C++核心',
                     children: 
                     [
-                        '/C-plusplus/cplusplus编程核心/00.md'
+                        '/C-plusplus/cplusplus编程核心/00.md',
+                        '/C-plusplus/cplusplus编程核心/01.md'
                     ]
                 }
             ],
