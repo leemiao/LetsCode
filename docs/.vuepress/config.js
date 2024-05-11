@@ -63,7 +63,7 @@ export default defineUserConfig({
                     text: '词汇',
                     children:
                     [
-                        '/英语学习/词汇/00.md'
+                        '/英语学习/词汇/GSL词汇学习/00.md'
                     ]
                 }
             ]
