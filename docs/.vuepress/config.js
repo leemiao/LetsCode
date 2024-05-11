@@ -57,6 +57,18 @@ export default defineUserConfig({
             ],
         },
         {
+            text: '英语学习',
+            children:[
+                {
+                    text: '词汇',
+                    children:
+                    [
+                        '/英语学习/词汇/00.md'
+                    ]
+                }
+            ]
+        },
+        {
             text: 'bilibili',
             link: 'https://space.bilibili.com/25488437',
         },
