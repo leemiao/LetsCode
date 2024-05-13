@@ -31,6 +31,13 @@ export default defineUserConfig({
                         '/Python/Python基础/02.md',
                         '/Python/Python基础/03.md'    
                     ]
+                },
+                {
+                    text:'数据科学',
+                    children:
+                    [
+                        '/Python/数据科学/00.md'
+                    ]
                 }
             ]
         },
