@@ -1,4 +1,5 @@
 import { viteBundler } from '@vuepress/bundler-vite'
+import { commentPlugin } from '@vuepress/plugin-comment'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 
@@ -10,6 +11,12 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'LetsCode',
   description: 'LetsLearning频道文档网站 | 内容正逐步上传更新中...',
+
+  plugins: [
+    commentPlugin({
+
+    })
+  ],
 
   theme: defaultTheme({
     logo: '/images/logo.png',
