@@ -92,7 +92,7 @@ export default defineUserConfig({
     // 侧边栏对象
     // 不同子路径下的页面会使用不同的侧边栏
     sidebar: {
-        '/Numpy/':[
+        '/Python/数据科学/':[
             {
                 text: 'Numpy',
                 collapsible: true,
