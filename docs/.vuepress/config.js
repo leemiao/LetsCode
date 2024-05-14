@@ -27,7 +27,7 @@ export default defineUserConfig({
     logo: '/images/logo.png',
     navbar: [
         {
-            text: '🏠️首页',
+            text: '首页',
             link: '/',
         },
         {
@@ -54,7 +54,7 @@ export default defineUserConfig({
             ]
         },
         {
-            text: '🧑🏻‍💻C++',
+            text: 'C++',
             children: [
                 {
                     text: 'C++算法',
@@ -96,7 +96,7 @@ export default defineUserConfig({
             link: 'https://space.bilibili.com/25488437',
         },
         {
-            text: '🤙AboutMe',
+            text: 'AboutMe',
             link: '/about/aboutme.md',
         },
         
