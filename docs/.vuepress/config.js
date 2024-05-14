@@ -14,7 +14,12 @@ export default defineUserConfig({
 
   plugins: [
     commentPlugin({
-
+        provider: 'Giscus',
+        comment: true,
+        repo: 'leemiao/LetsCode',
+        repoId: 'R_kgDOLwsImg',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOLwsIms4CfWLc'
     })
   ],
 
