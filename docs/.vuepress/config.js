@@ -2,6 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { commentPlugin } from '@vuepress/plugin-comment'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
+import { mdEnhancePlugin } from 'vuepress-plugin-md-enhance'
 
 export default defineUserConfig({
   bundler: viteBundler(),
@@ -20,6 +21,13 @@ export default defineUserConfig({
         repoId: 'R_kgDOLwsImg',
         category: 'Announcements',
         categoryId: 'DIC_kwDOLwsIms4CfWLc'
+    }),
+    mdEnhancePlugin({
+        // 使用 KaTeX 启用 TeX 支持
+        katex: true
+        // 使用 mathjax 启用 TeX 支持
+        // mathjax: true
+        // 二选一
     })
   ],
 
