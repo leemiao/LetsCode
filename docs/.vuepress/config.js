@@ -2,7 +2,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { commentPlugin } from '@vuepress/plugin-comment'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
-import { mdEnhancePlugin } from 'vuepress-plugin-md-enhance'
+import { mdEnhancePlugin } from 'vuepress-plugin-md-enhance';
+import { componentsPlugin } from "vuepress-plugin-components";
 
 export default defineUserConfig({
   bundler: viteBundler(),
@@ -24,11 +25,27 @@ export default defineUserConfig({
     }),
     mdEnhancePlugin({
         // 使用 KaTeX 启用 TeX 支持
-        katex: true
+        katex: true,
         // 使用 mathjax 启用 TeX 支持
         // mathjax: true
         // 二选一
-    })
+        // 组件支持
+        component: true,
+        // 选项卡
+        tabs: true,
+        // 剧透
+        spoiler: true,
+        // 标记
+        mark: true,
+        // 启用提示容器
+        hint: true,
+    }),
+    componentsPlugin({
+        components: [
+            "VPCard",
+            "VPBanner"
+        ]
+    }),
   ],
 
   theme: defaultTheme({
