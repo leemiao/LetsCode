@@ -45,8 +45,16 @@ export default defineUserConfig({
     componentsPlugin({
         components: [
             "VPCard",
-            "VPBanner"
-        ]
+            "VPBanner",
+            "BiliBili",
+            "FontIcon",
+            "PDF",
+        ],
+        componentOptions: {
+        fontIcon: {
+          assets: "fontawesome",
+        },
+    }
     }),
   ],
 
@@ -80,7 +88,8 @@ export default defineUserConfig({
                     text:"基础模块",
                     children:
                     [
-                        '/Python/数据科学/00.md'
+                        '/Python/数据科学/00.md',
+                        '/Python/数据科学/01.md'
                     ]
                 }        
             ]
