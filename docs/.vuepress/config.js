@@ -39,6 +39,8 @@ export default defineUserConfig({
         mark: true,
         // 启用提示容器
         hint: true,
+        // 启用图表
+        chart: true,
     }),
     componentsPlugin({
         components: [
@@ -68,14 +70,19 @@ export default defineUserConfig({
                         '/Python/Python基础/02.md',
                         '/Python/Python基础/03.md'    
                     ]
-                },
+                },   
+            ]
+        },
+        {
+            text:'数据科学',
+            children:[
                 {
-                    text:'数据科学',
+                    text:"基础模块",
                     children:
                     [
                         '/Python/数据科学/00.md'
                     ]
-                }
+                }        
             ]
         },
         {
