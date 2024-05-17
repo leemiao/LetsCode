@@ -20,8 +20,9 @@ jobs:
         run: yarn run docs:build
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+        uses: crazy-max/ghaction-github-pages@v2
         with:
-          BRANCH: gh-pages
-          FOLDER: docs/.vuepress/dist
+          target_branch: gh-pages
+          build_dir: docs/.vuepress/dist
+        env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN2 }}
